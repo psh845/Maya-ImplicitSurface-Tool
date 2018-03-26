@@ -1,0 +1,84 @@
+﻿빌드 시작: 2016-09-12 오후 4:59:30
+     1>2 노드의 "D:\program\project\MayaMetaPlugin\MayaMetaPlugin\MayaMetaPlugin.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\MayaMetaPlugin.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I. /I"D:\Program Files\Autodesk\Maya2014\include" /Zi /nologo /W3 /WX- /Od /D _DEBUG /D WIN32 /D _WINDOWS /D _USRDLL /D NT_PLUGIN /D _HAS_ITERATOR_DEBUGGING=0 /D _SECURE_SCL=0 /D _SECURE_SCL_THROWS=0 /D _SECURE_SCL_DEPRECATE=0 /D _CRT_SECURE_NO_DEPRECATE /D TBB_USE_DEBUG=0 /D __TBB_LIB_NAME=tbb.lib /D REQUIRE_IOSTREAM /D AW_NEW_IOSTREAMS /D Bits64_ /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Debug\\" /Fd"Debug\MayaMetaPlugin.pdb" /Gd /TP /errorReport:prompt MetaballUtil.cpp
+         MetaballUtil.cpp
+     1>d:\program\project\mayametaplugin\mayametaplugin\MetaballUtil.h(39): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\program\project\mayametaplugin\mayametaplugin\MetaballUtil.h(65): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(17): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(22): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(27): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(88): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>MetaballUtil.cpp(283): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>MetaballUtil.cpp(332): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(333): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(334): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(342): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>MetaballUtil.cpp(346): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(414): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(415): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(416): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(425): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>MetaballUtil.cpp(436): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(446): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(450): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(455): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(512): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(513): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(514): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(525): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>MetaballUtil.cpp(539): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>MetaballUtil.cpp(542): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(557): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(564): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(569): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(575): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(660): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(661): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(662): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(674): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>MetaballUtil.cpp(694): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>MetaballUtil.cpp(700): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(743): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(750): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(755): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(761): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(850): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(851): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(852): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(889): warning C4305: '초기화 중' : 'double'에서 'float'(으)로 잘립니다.
+     1>MetaballUtil.cpp(905): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(906): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(907): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(908): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(909): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(922): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(923): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(939): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(944): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(950): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(1476): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>MetaballUtil.cpp(1477): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\MayaMetaPlugin.mll" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\Autodesk\Maya2014\lib" Foundation.lib OpenMaya.lib OpenMayaUI.lib OpenGL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MayaMetaPlugin.mll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Debug\MayaMetaPlugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /NXCOMPAT /IMPLIB:"Debug\MayaMetaPlugin.lib" /MACHINE:X64 /DLL Debug\MayaMetaPlugin.mll.embed.manifest.res
+         Debug\MayaMetaPluginCmd.obj
+         Debug\MetaballUtil.obj /export:initializePlugin /export:uninitializePlugin 
+         MayaMetaPlugin.vcxproj -> D:\program\project\MayaMetaPlugin\MayaMetaPlugin\Debug\MayaMetaPlugin.mll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MayaMetaPlugin.mll.embed.manifest" /manifest Debug\MayaMetaPlugin.mll.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         MayaMetaPlugin.vcxproj -> D:\program\project\MayaMetaPlugin\MayaMetaPlugin\Debug\MayaMetaPlugin.mll
+       FinalizeBuildStatus:
+         "Debug\MayaMetaPlugin.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\MayaMetaPlugin.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\program\project\MayaMetaPlugin\MayaMetaPlugin\MayaMetaPlugin.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.90
